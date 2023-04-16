@@ -9,7 +9,7 @@
         <a href="/">
           <div class="flex">
             <img
-              src="src\lib\img\scamViewer.png"
+              src="src\lib\assets\img\scamViewer.png"
               alt="logo"
               class="h-20 flex-initial mr-4"
             />

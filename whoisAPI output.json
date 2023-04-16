@@ -1,0 +1,149 @@
+{
+    WhoisRecord: {
+      domainName: 'kireobat.eu',
+      parseCode: 8,
+      audit: {
+        createdDate: '2023-04-16 18:25:22 UTC',
+        updatedDate: '2023-04-16 18:25:22 UTC'
+      },
+      registrarName: 'Domeneshop AS',
+      registryData: {
+        registrant: [Object],
+        technicalContact: [Object],
+        domainName: 'kireobat.eu',
+        nameServers: [Object],
+        rawText: '% The WHOIS service offered by EURid and the access to the records\n' +
+          '% in the EURid WHOIS database are provided for information purposes\n' +
+          '% only. It allows persons to check whether a specific domain name\n' +
+          '% is still available or not and to obtain information related to\n' +
+          '% the registration records of existing domain names.\n' +
+          '%\n' +
+          '% EURid cannot, under any circumstances, be held liable in case the\n' +
+          '% stored information would prove to be wrong, incomplete or not\n' +
+          '% accurate in any sense.\n' +
+          '%\n' +
+          '% By submitting a query you agree not to use the information made\n' +
+          '% available to:\n' +
+          '%\n' +
+          '% - allow, enable or otherwise support the transmission of unsolicited,\n' +
+          '%   commercial advertising or other solicitations whether via email or\n' +
+          '%   otherwise;\n' +
+          '% - target advertising in any possible way;\n' +
+          '%\n' +
+          '% - to cause nuisance in any possible way to the registrants by sending\n' +
+          '%   (whether by automated, electronic processes capable of enabling\n' +
+          '%   high volumes or other possible means) messages to them.\n' +
+          '%\n' +
+          '% Without prejudice to the above, it is explicitly forbidden to extract,\n' +
+          '% copy and/or use or re-utilise in any form and by any means\n' +
+          '% (electronically or not) the whole or a quantitatively or qualitatively\n' +
+          '% substantial part of the contents of the WHOIS database without prior\n' +
+          '% and explicit permission by EURid, nor in any attempt hereof, to apply\n' +
+          '% automated, electronic processes to EURid (or its systems).\n' +
+          '%\n' +
+          '% You agree that any reproduction and/or transmission of data for\n' +
+          '% commercial purposes will always be considered as the extraction of a\n' +
+          '% substantial part of the content of the WHOIS database.\n' +
+          '%\n' +
+          '% By submitting the query you agree to abide by this policy and accept\n' +
+          '% that EURid can take measures to limit the use of its WHOIS services\n' +
+          '% in order to protect the privacy of its registrants or the integrity\n' +
+          '% of the database.\n' +
+          '%\n' +
+          '% The EURid WHOIS service on port 43 (textual whois) never\n' +
+          '% discloses any information concerning the registrant.\n' +
+          '% Registrant and on-site contact information can be obtained through use of the\n' +
+          '% webbased WHOIS service available from the EURid website www.eurid.eu\n' +
+          '%\n' +
+          '% WHOIS kireobat.eu\n' +
+          'Domain: kireobat.eu\n' +
+          'Script: LATIN\n' +
+          '\n' +
+          'Registrant:\n' +
+          '        NOT DISCLOSED!\n' +
+          '        Visit www.eurid.eu for webbased WHOIS.\n' +
+          '\n' +
+          'Technical:\n' +
+          '        Organisation: Domeneshop AS\n' +
+          '        Language: en\n' +
+          '        Email: hostmaster@domeneshop.no\n' +
+          '\n' +
+          'Registrar:\n' +
+          '        Name: Domeneshop AS\n' +
+          '        Website: www.domainnameshop.com\n' +
+          '\n' +
+          'Name servers:\n' +
+          '        dale.ns.cloudflare.com\n' +
+          '        linda.ns.cloudflare.com\n' +
+          '\n' +
+          'Please visit www.eurid.eu for more info.',
+        parseCode: 3272,
+        header: '% The WHOIS service offered by EURid and the access to the records\n' +
+          '% in the EURid WHOIS database are provided for information purposes\n' +
+          '% only. It allows persons to check whether a specific domain name\n' +
+          '% is still available or not and to obtain information related to\n' +
+          '% the registration records of existing domain names.\n' +
+          '%\n' +
+          '% EURid cannot, under any circumstances, be held liable in case the\n' +
+          '% stored information would prove to be wrong, incomplete or not\n' +
+          '% accurate in any sense.\n' +
+          '%\n' +
+          '% By submitting a query you agree not to use the information made\n' +
+          '% available to:\n' +
+          '%\n' +
+          '% - allow, enable or otherwise support the transmission of unsolicited,\n' +
+          '%   commercial advertising or other solicitations whether via email or\n' +
+          '%   otherwise;\n' +
+          '% - target advertising in any possible way;\n' +
+          '%\n' +
+          '% - to cause nuisance in any possible way to the registrants by sending\n' +
+          '%   (whether by automated, electronic processes capable of enabling\n' +
+          '%   high volumes or other possible means) messages to them.\n' +
+          '%\n' +
+          '% Without prejudice to the above, it is explicitly forbidden to extract,\n' +
+          '% copy and/or use or re-utilise in any form and by any means\n' +
+          '% (electronically or not) the whole or a quantitatively or qualitatively\n' +
+          '% substantial part of the contents of the WHOIS database without prior\n' +
+          '% and explicit permission by EURid, nor in any attempt hereof, to apply\n' +
+          '% automated, electronic processes to EURid (or its systems).\n' +
+          '%\n' +
+          '% You agree that any reproduction and/or transmission of data for\n' +
+          '% commercial purposes will always be considered as the extraction of a\n' +
+          '% substantial part of the content of the WHOIS database.\n' +
+          '%\n' +
+          '% By submitting the query you agree to abide by this policy and accept\n' +
+          '% that EURid can take measures to limit the use of its WHOIS services\n' +
+          '% in order to protect the privacy of its registrants or the integrity\n' +
+          '% of the database.\n' +
+          '%\n' +
+          '% The EURid WHOIS service on port 43 (textual whois) never\n' +
+          '% discloses any information concerning the registrant.\n' +
+          '% Registrant and on-site contact information can be obtained through use of the\n' +
+          '% webbased WHOIS service available from the EURid website www.eurid.eu\n' +
+          '%\n' +
+          '% WHOIS kireobat.eu',
+        strippedText: 'Domain: kireobat.eu\n' +
+          'Script: LATIN\n' +
+          'Registrant:\n' +
+          'NOT DISCLOSED!\n' +
+          'Visit www.eurid.eu for webbased WHOIS.\n' +
+          'Technical:\n' +
+          'Organisation: Domeneshop AS\n' +
+          'Language: en\n' +
+          'Email: hostmaster@domeneshop.no\n' +
+          'Registrar:\n' +
+          'Name: Domeneshop AS\n' +
+          'Registrar Website: www.domainnameshop.com\n' +
+          'Name servers:\n' +
+          'dale.ns.cloudflare.com\n' +
+          'linda.ns.cloudflare.com\n',
+        audit: [Object],
+        registrarName: 'Domeneshop AS',
+        customField3Name: 'RegistrarURL',
+        customField3Value: 'www.domainnameshop.com',
+        whoisServer: 'whois.eu'
+      },
+      contactEmail: 'hostmaster@domeneshop.no',
+      domainNameExt: '.eu'
+    }
+  }

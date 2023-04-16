@@ -1,0 +1,15 @@
+{
+  "name": "analyze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analyze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.9.0",
+    "whois": "^2.14.0"
+  }
+}
